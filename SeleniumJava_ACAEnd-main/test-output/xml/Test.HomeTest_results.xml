@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SeleniumJava_ACAEnd-main"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.004">
+    <properties></properties>
+
+
+
+            <testcase
+                name="HomePageTest"
+                time="0.004"
+                classname="Test.HomeTest">
+            </testcase>
+</testsuite>
