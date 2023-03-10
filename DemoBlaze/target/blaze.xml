@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Blaze-Test" >
+    <test name="SignUp-LogIn" >
+        <classes>
+            <class name="BlazeSignUp" />
+            <class name="BlazeLogIn"></class>
+            <class name="BlazeClose"></class>
+        </classes>
+    </test>
+</suite>
